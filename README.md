@@ -18,6 +18,16 @@ Keywords: Dynamic Inference, Slowly Progressing, Executing Path Regularization, 
 <img src="overview.png" alt="framework" width="100%">
 </p>
 
+## License and Citation
 
+```bibtex
+@inproceedings{wang2022spnet,
+    author = {Huanyu Wang and Wenhu Zhang and Shihao Su and HuiWang and Zhenwei
+Miao and Xin Zhan and Xi Li},
+    title = {SP-Net: Slowly Progressing Dynamic Inference Network},
+    booktitle="Proc. Eur. Conf. Comput. Vis.",
+    year = {2022},
+}
+```
 ## Contact
 huanyuhello at zju dot edu dot cn ~~
